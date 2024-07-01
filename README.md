@@ -1,3 +1,5 @@
+
+[教程地址https://linux.do/t/topic/121073](https://linux.do/t/topic/121073)
 本贴子参考各位佬友的work喂饭代码，感谢各位佬友的分享
 ```
 https://linux.do/t/topic/93659/1
